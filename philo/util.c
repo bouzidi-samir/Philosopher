@@ -74,4 +74,3 @@ int	ft_isdigit(char *c)
 		return (1);
 	return (0);
 }
-
